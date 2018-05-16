@@ -18,5 +18,5 @@
     main tool: python 2
     libraries： scikit-learn
 
-# to see my code, please cilck "poi_id.py".
-# to read my project report, please click "project-seven-machine-learning.pdf".
+### to see my code, please cilck "poi_id.py".
+### to read my project report, please click "project-seven-machine-learning.pdf".
